@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {}
+    "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {
+    "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
+        "projectUniqueName": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
         "projectName": "NLayer.Caching",
-        "projectPath": "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
-        "packagesPath": "C:\\Users\\ekarakan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.Caching\\obj\\",
+        "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Caching\\NLayer.Caching.csproj",
+        "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Caching\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ekarakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://ftateamcity.innova.com.tr/guestAuth/app/nuget/v1/FeedService.svc": {},
-          "http://ftateamcity.innova.com.tr:82/api/v2": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

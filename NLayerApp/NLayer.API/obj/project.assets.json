@@ -2020,19 +2020,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ekarakan\\.nuget\\packages\\": {}
+    "C:\\Users\\karak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+      "projectUniqueName": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
       "projectName": "NLayer.API",
-      "projectPath": "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
-      "packagesPath": "C:\\Users\\ekarakan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.API\\obj\\",
+      "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.API\\NLayer.API.csproj",
+      "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ekarakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2040,16 +2040,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://ftateamcity.innova.com.tr/guestAuth/app/nuget/v1/FeedService.svc": {},
-        "http://ftateamcity.innova.com.tr:82/api/v2": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj": {
-              "projectPath": "C:\\Users\\ekarakan\\source\\repos\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj"
+            "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj": {
+              "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj"
             }
           }
         }
@@ -2087,7 +2085,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
