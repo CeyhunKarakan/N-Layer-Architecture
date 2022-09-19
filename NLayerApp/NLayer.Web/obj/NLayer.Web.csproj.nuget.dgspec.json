@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj": {}
+    "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+        "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
         "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj": {
+    "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
         "projectName": "NLayer.Repository",
-        "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
         "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\obj\\",
+        "outputPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
-                "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj"
+              "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
+                "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj": {
+    "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
+        "projectUniqueName": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
         "projectName": "NLayer.Service",
-        "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
+        "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
         "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\obj\\",
+        "outputPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -162,8 +162,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj": {
-                "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj"
+              "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj": {
+                "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj"
               }
             }
           }
@@ -196,14 +196,14 @@
         }
       }
     },
-    "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj": {
+    "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj",
+        "projectUniqueName": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj",
         "projectName": "NLayer.Web",
-        "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj",
+        "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj",
         "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\obj\\",
+        "outputPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -220,8 +220,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj": {
-                "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj"
+              "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj": {
+                "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj"
               }
             }
           }

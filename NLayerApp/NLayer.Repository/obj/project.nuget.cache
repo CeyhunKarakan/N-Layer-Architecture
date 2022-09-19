@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cvZMoCzMl2f0CIrKD4pMTeJiExM2A+5aLBfVEoiGHHxHI1jwvIi/5wglE0ho5k9y7sHJx/cki0v3kTVN6tbHMw==",
+  "dgSpecHash": "frziyuLNLZ3XgtSRMl9PBBUk9+a2yZn6Q7Vilf6qlEf5bShTD5xto/XjTCKczy5Au5Rb6CQT2jj5pXi1SMOT5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
+  "projectFilePath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Repository\\NLayer.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karak\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\karak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

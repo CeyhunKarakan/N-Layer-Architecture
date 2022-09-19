@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {}
+    "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+        "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
         "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",

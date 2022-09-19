@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pDgThGMtET3qSHwKiegSvetwDgaAZTnDk0tDuH/QZina9B2uyNqkoB8H57XHU8W3zSN8lABNNnSAZi1pjPJq8g==",
+  "dgSpecHash": "pWr6hu8r9WtoKJNP/koiTi9bL4her/Xm1GPqsmgOZ95mpFJFnbF+VMJ3bJPA9NVxmkEh2heyiW+fMt7xbZoD+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
+  "projectFilePath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\karak\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

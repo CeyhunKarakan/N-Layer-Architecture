@@ -45,7 +45,7 @@ namespace NLayer.Repository.Seed
 
             builder.HasData(new Product
             {
-                Id = 1,
+                Id = 4,
                 CategoryId = 2,
                 Name = "First Book",
                 Price = 15,
@@ -55,7 +55,7 @@ namespace NLayer.Repository.Seed
 
             builder.HasData(new Product
             {
-                Id = 2,
+                Id = 5,
                 CategoryId = 2,
                 Name = "Second Book",
                 Price = 55,

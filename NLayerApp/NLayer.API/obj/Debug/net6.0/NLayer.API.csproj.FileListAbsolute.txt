@@ -128,3 +128,5 @@ C:\Users\karak\Source\Repos\N-Layer-Architecture\NLayerApp\NLayer.API\obj\Debug\
 C:\Users\karak\Source\Repos\N-Layer-Architecture\NLayerApp\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
 C:\Users\karak\Source\Repos\N-Layer-Architecture\NLayerApp\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
 C:\Users\karak\Source\Repos\N-Layer-Architecture\NLayerApp\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
+C:\Users\karak\source\repos\N-Layer-Architecture\NLayerApp\NLayer.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\karak\source\repos\N-Layer-Architecture\NLayerApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll

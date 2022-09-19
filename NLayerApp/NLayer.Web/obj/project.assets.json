@@ -1828,11 +1828,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj",
+      "projectUniqueName": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj",
       "projectName": "NLayer.Web",
-      "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj",
+      "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\NLayer.Web.csproj",
       "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\obj\\",
+      "outputPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1849,8 +1849,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj": {
-              "projectPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj"
+            "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj": {
+              "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Service\\NLayer.Service.csproj"
             }
           }
         }
