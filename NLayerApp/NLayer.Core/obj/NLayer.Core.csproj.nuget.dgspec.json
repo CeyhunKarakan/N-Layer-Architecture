@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {}
+    "C:\\Users\\ekarakan\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Users\\ekarakan\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ekarakan\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "C:\\Users\\karak\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
-        "packagesPath": "C:\\Users\\karak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karak\\Source\\Repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\obj\\",
+        "projectPath": "C:\\Users\\ekarakan\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\NLayer.Core.csproj",
+        "packagesPath": "C:\\Users\\ekarakan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekarakan\\source\\repos\\N-Layer-Architecture\\NLayerApp\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\karak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ekarakan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ftateamcity.innova.com.tr/guestAuth/app/nuget/v1/FeedService.svc": {},
+          "http://ftateamcity.innova.com.tr:82/api/v2": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

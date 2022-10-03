@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NLayerApp",
+    "\\NLayerApp\\NLayer.API",
+    "\\NLayerApp\\NLayer.API\\Properties"
   ],
-  "SelectedNode": "\\NLayerApp.sln",
+  "SelectedNode": "\\NLayerApp\\NLayer.API\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

@@ -22,3 +22,15 @@ C:\Users\karak\Source\Repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug
 C:\Users\karak\Source\Repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
 C:\Users\karak\Source\Repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
 C:\Users\karak\Source\Repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\ekarakan\source\repos\N-Layer-Architecture\NLayerApp\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
